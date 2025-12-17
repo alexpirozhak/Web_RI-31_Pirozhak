@@ -647,7 +647,7 @@ h1 {
 .discount {
   padding-top: 120px;
   height: 440px;
-  background-image: url("/images/gigachad.jpg");
+  background-image: url("images/gigachad.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
